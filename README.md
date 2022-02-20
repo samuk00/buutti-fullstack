@@ -6,6 +6,9 @@
     cd buutti-fullstack
     npm start
 ```
+
+### Application is running on http://localhost:3001/
+
 ### Run unit tests
 
 ```
