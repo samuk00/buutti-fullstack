@@ -1,5 +1,14 @@
-# Install and run the application
+# Buutti-fullstack
 
-git clone https://github.com/samuk00/buutti-fullstack.git
-cd buutti-fullstack
-npm start
+## Instructions to install and run the application
+```
+    git clone https://github.com/samuk00/buutti-fullstack.git
+    cd buutti-fullstack
+    npm start
+```
+## Run tests
+
+```
+  npm test
+
+```
